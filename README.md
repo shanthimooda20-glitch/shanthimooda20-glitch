@@ -63,3 +63,26 @@
 
 - 🟦 **Exploring SAP Cloud ERP – Course Completion**  
   **SAP** · [🔗 Verify Credential](https://badger.learning.sap.com/verify/xurak-gapuv-bevoc-liveh-gelip)
+## 💻 Projects
+
+### 🔐 Smart Phishing URL Detection System
+**Python | Flask | Machine Learning | Scikit-learn**
+
+- Developed a Flask-based web application to detect potentially malicious and phishing URLs.
+- Extracted 15+ lexical and host-based URL features for phishing classification.
+- Trained and evaluated machine-learning models for automated URL prediction.
+- Implemented database logging to store URL analysis requests and results.
+
+🔗 [💻 View Project](YOUR_GITHUB_REPOSITORY_LINK)
+
+---
+
+### 📦 Inventory & Procurement Management System
+**HTML | CSS | JavaScript | Web Application | ERP Concepts**
+
+- Developed an ERP-inspired web application for inventory and procurement management.
+- Designed a dashboard for managing inventory and procurement-related operations.
+- Created a user-friendly interface to organize and display business information.
+- Built the project to demonstrate practical understanding of inventory and procurement workflows.
+
+🔗 [🌐 Live Demo](https://shanthimooda20-glitch.github.io/Inventory-procurement-management-system/)
