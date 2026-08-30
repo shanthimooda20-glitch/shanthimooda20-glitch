@@ -52,3 +52,14 @@
 ![Prisma](https://img.shields.io/badge/Prisma-1C1C1C?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1C1C1C?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=white)
+
+## 🏆 Certifications
+
+- 🟦 **Business Processes in SAP S/4HANA Sourcing and Procurement – Course Completion**  
+  **SAP** · [🔗 Verify Credential](https://badger.learning.sap.com/verify/xulat-vuneh-kucam-setin-gypyn)
+
+- 🟠 **Oracle Fusion Cloud Applications ERP Process Essentials Certified – Rel 1**  
+  **Oracle** · [🔗 Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=528B1E8ADE9C5F0CE68A8FA1852A582981B092819EEC2BCB78A505EBD1E53628)
+
+- 🟦 **Exploring SAP Cloud ERP – Course Completion**  
+  **SAP** · [🔗 Verify Credential](https://badger.learning.sap.com/verify/xurak-gapuv-bevoc-liveh-gelip)
