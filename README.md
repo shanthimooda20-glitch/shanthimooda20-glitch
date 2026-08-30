@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm shanthi</h1>
+## 🏆 Certifications
+
+- 🟦 **Business Processes in SAP S/4HANA Sourcing and Procurement – Course Completion**  
+  **SAP** · [🔗 Verify Credential](https://badger.learning.sap.com/verify/xulat-vuneh-kucam-setin-gypyn)
+
+- 🟠 **Oracle Fusion Cloud Applications ERP Process Essentials Certified – Rel 1**  
+  **Oracle** · [🔗 Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=528B1E8ADE9C5F0CE68A8FA1852A582981B092819EEC2BCB78A505EBD1E53628)
+
+- 🟦 **Exploring SAP Cloud ERP – Course Completion**  
+  **SAP** · [🔗 Verify Credential](https://badger.learning.sap.com/verify/xurak-gapuv-bevoc-liveh-gelip)<h1 align="center">Hi 👋, I'm shanthi</h1>
 <h3 align="center">A passionate frontend developer from India and currently pursuing btech from anurag</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanthimooda20-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="shanthimooda20-glitch" /> </p>
