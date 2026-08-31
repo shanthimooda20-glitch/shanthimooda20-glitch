@@ -76,7 +76,7 @@ potentially malicious URLs.
 - Developed a Flask-based web interface for URL analysis.
 - Implemented machine-learning based phishing URL classification.
 
-🔗 **GitHub repository coming soon**
+🔗 **Live Demo:** [Smart Phishing URL Detection System](https://smart-phishing-url-detection-system-hzz4.onrender.com)
 
 ---
 
